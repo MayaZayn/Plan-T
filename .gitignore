@@ -1,2 +1,10 @@
 /bin
 /obj
+.devdbrc
+test.html
+/.vscode
+/.devdbrc
+/Cities.db*
+/mydatabase.db
+/wwwroot/database/Cities.db
+/wwwroot/database/paln-t.db
